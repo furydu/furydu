@@ -12,10 +12,16 @@ Over approximately three months, I built its interface, third-party swap API int
 
 **[ZyroShift — product showcase](https://github.com/furydu/zyroshift-showcase)**
 
+<a href="https://github.com/furydu/zyroshift-showcase#interface-preview"><img src="https://github.com/furydu/zyroshift-showcase/blob/main/assets/zyroshift-swap-builder.jpg?raw=true" alt="ZyroShift swap interface — local demo preview" width="700" /></a>
+
+*Local demo screenshot with simulated rates. [View the interface gallery](https://github.com/furydu/zyroshift-showcase#interface-preview).*
+
 - Responsive swap interface with token and network selection.
 - Variable and fixed swap flows with dedicated order tracking.
 - Search-oriented pair pages, directories and guides.
 - An affiliate portal extension is also available in the local development version.
+
+The hosted demo is temporarily unavailable. Email **[support@zyroshift.com](mailto:support@zyroshift.com?subject=ZyroShift%20product%20walkthrough)** to request a recorded video walkthrough or arrange a live local demo via UltraViewer.
 
 ### Let's work together
 
