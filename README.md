@@ -2,9 +2,9 @@
 
 I build web products with a focus on interface design, API integration and the complete user journey.
 
-My current portfolio project is **ZyroShift**, a crypto swap web application built with **Next.js, React, TypeScript and Tailwind CSS**, integrated with the **SideShift.ai API**.
+My current portfolio project is **ZyroShift**, a crypto swap web application built with **Next.js, React, TypeScript and Tailwind CSS**.
 
-I worked on the swap interface, quote and order flows, status tracking, and the token/network content architecture over approximately three months.
+Over approximately three months, I built its interface, third-party swap API integration, quote and order flows, status tracking, and token/network content architecture.
 
 ### Featured project
 
@@ -15,10 +15,16 @@ I worked on the swap interface, quote and order flows, status tracking, and the 
 - Responsive swap interface with token and network selection.
 - Variable and fixed swap flows with dedicated order tracking.
 - Search-oriented pair pages, directories and guides.
-- An additional affiliate portal in the local development version.
+- An affiliate portal extension is also available in the local development version.
 
 ### Let's work together
 
-I'm open to project acquisition discussions, source licensing and custom implementation work.
+I'm open to:
+
+- **Project acquisition** — discuss taking over ZyroShift.
+- **Source licensing** — discuss access and usage terms for the codebase.
+- **Custom development** — adapt the product or build a similar web experience for your business.
+
+For project details and collaboration enquiries:
 
 **[support@zyroshift.com](mailto:support@zyroshift.com?subject=Project%20enquiry)**
